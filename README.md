@@ -4,7 +4,7 @@ A futuristic 3D floating terminal interface built with React.
 
 ## 🚀 Live Demo
 
-[Click here to see the demo](https://your-vercel-project-name.vercel.app)
+[Click here to see the demo](https://your-vercel-project-name.vercel.app](https://cmd-portfolio-eight.vercel.app/))
 
 or
 
