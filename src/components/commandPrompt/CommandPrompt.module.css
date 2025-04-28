@@ -1,0 +1,38 @@
+.cmd {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 1rem;
+  border-radius: 8px;
+  color: #0f0;
+  font-family: monospace;
+  width: 100%;
+  max-width: 90%;
+  height: 300px; /* 🛠️ Fixed height for the whole command prompt */
+  display: flex;
+  flex-direction: column;
+}
+
+.output {
+  flex: 1;
+  overflow-y: auto;
+  margin-bottom: 1rem;
+  padding-right: 4px; /* small padding so scrollbar doesn't cover text */
+}
+
+.cmdInput {
+  width: 100%;
+  padding: 0.5rem;
+  background: black;
+  color: #0f0;
+  border: 1px solid #0f0;
+  font-family: monospace;
+  font-size: 1rem;
+}
+
+.commandLine {
+  color: #0f0;
+}
+
+.commandOutput {
+  color: #0f0;
+  margin-left: 1rem;
+}
