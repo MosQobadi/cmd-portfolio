@@ -8,4 +8,4 @@ A futuristic 3D floating terminal interface built with React.
 
 or
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge)](https://your-vercel-project-name.vercel.app)
+[![Live Demo]([https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge)](https://your-vercel-project-name.vercel.app](https://cmd-portfolio-eight.vercel.app/))
