@@ -10,7 +10,8 @@ export default function MatrixBackground() {
     const ctx = canvas.getContext("2d");
 
     const fontSize = 14;
-    const letters = "アカサタナハマヤラワ0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    // const letters = "アカサタナハマヤラワ0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    const letters = "MOSTAFAQOBADI";
 
     const resizeCanvas = () => {
       const dpr = window.devicePixelRatio || 1;
